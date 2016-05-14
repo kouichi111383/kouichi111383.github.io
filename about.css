@@ -5,8 +5,8 @@
 
   body {
   font-family: YuGothic, "游ゴシック", "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
-  background-color: #ddd;
-  font-size:  14px;
+  background-color: #de0909;
+  font-size:  16px;
 }
 
 
@@ -16,7 +16,7 @@ span.green {
 
 
 header {
-  background-image: url("bg.jpg");
+  background-image: url("tk-bg.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
